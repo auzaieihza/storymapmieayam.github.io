@@ -49,7 +49,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Mie Ayam Kidul Pamela 7',
-            image: 'assets/pamela.JPG',
+            image: 'assets/pamela.jpg',
             description: 'Mie Ayam selatan pamela 7 merupakan mie ayam terdekat dari ponpes sempu, 1 paket mie ayam bakso + es teh hanya 15.000 Rupiah.',
             location: {
                 center: [110.44915284540117, -7.74750528803909],
